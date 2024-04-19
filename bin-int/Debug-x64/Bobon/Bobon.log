@@ -1,0 +1,7 @@
+﻿  Application.cpp
+C:\Dev\Bobon\Bobon\src\Bobon\Core.h(5,1): warning C4005: 'BOBON_API': macro redefinition
+  (compiling source file 'src/Bobon/Application.cpp')
+  C:\Dev\Bobon\Bobon\src\Bobon\Core.h(5,1):
+  'BOBON_API' previously declared on the command line
+  
+  Bobon.vcxproj -> C:\Dev\Bobon\bin\Debug-x64\Bobon\Bobon.dll
